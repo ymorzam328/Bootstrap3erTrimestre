@@ -21,6 +21,12 @@ a {
     text-decoration: none;
 }
 
+input {
+    border: none;
+}
+
+
+
 /* .circulo{ */
     
     /* background-color: var(--contraste); */
